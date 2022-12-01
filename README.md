@@ -14,7 +14,7 @@ You can use it just for one url or for several urls as well
 
 ### Scrap one url
 
-Download the jar locally and execute in a command line : ````java -jar og-meta-scraper-1.0-jar-with-dependencies.jar url <url_to_scrap> <output_folder_path>````
+Download the jar locally and execute in a command line : ````java -jar og-meta-scraper-<version>-jar-with-dependencies.jar url <url_to_scrap> <output_folder_path>````
 
 ### Scrap several urls
 
@@ -25,5 +25,5 @@ On page column you have to put the url you want to scrap
 
 You can find an example in resources/input/meta.csv
 
-Download the jar locally and execute in a command line : ````java -jar og-meta-scraper-1.0-jar-with-dependencies.jar file <input_file_path> <output_folder_path>````
+Download the jar locally and execute in a command line : ````java -jar og-meta-scraper-<version>-jar-with-dependencies.jar file <input_file_path> <output_folder_path>````
 
