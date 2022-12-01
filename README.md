@@ -23,9 +23,7 @@ if you want to scrap several urls you have to create a CSV file with delimiter '
 On id column you can put any information you want to retrieve it easily in the final json output
 On page column you have to put the url you want to scrap
 
-id;page
-myid;http://xxxxxxxxx
-my2ndId;http://xxxxx
+You can find an example in resources/input/meta.csv
 
 Download the jar locally and execute in a command line : ````java -jar og-meta-scraper-1.0-jar-with-dependencies.jar file <input_file_path> <output_folder_path>````
 
